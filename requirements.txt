@@ -1,0 +1,8 @@
+numpy>=2.0
+scipy>=1.11
+networkx>=3.0
+matplotlib>=3.8
+seaborn>=0.13
+eclipse-sumo==1.28.0   # SUMO experiments only (ships the SUMO binaries)
+traci==1.28.0
+sumolib==1.28.0

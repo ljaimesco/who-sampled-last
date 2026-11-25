@@ -1,0 +1,3 @@
+seed 271 (N=6, M=2, cv=0.3, R=400): 486 profiles, every one has a profitable deviation; smallest gain 0.5770 credits (0.144% of R) at profile [0, 1, 1, 1, -1, -1], vehicle 3 -> 0; largest utility change between the two finest resolutions 7.87e-05 (coarse pair 6.32e-04); certificate HOLDS (margin/2err = 3.7e+03); Monte Carlo 2e6 draws on the tightest deviation: gain 0.5238
+
+seed 276 (N=5, M=3, cv=0.5, R=800): 1024 profiles, every one has a profitable deviation; smallest gain 8.0129 credits (1.002% of R) at profile [2, 0, 0, 1, 2], vehicle 2 -> 1; largest utility change between the two finest resolutions 8.19e-05 (coarse pair 5.79e-04); certificate HOLDS (margin/2err = 4.9e+04); Monte Carlo 2e6 draws on the tightest deviation: gain 7.9156

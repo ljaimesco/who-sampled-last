@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+sumo_runs/
+figures/*.pdf
+figures/*.png
+.DS_Store
